@@ -1,0 +1,7 @@
+.DS_Store
+.clasp.json
+.clasprc.json
+.env
+.env.*
+*快照*
+*snapshot*.json
